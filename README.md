@@ -1,4 +1,4 @@
-# Assignment #3 - Complex Joins in Hadoop
+# Assignment #3 - Complex Joins using SQL
 
 ## Objectives:
 
